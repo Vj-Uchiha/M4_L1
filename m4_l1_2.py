@@ -9,5 +9,5 @@ def match_words(words):
     print("The number of words which have the same 1st and last character are: ", lis)
     return count
 
-words_count=match_words(["nayan", "Vedant", "racecar", "wow"])
+words_count=match_words(["nayan", "Vedant", "racecar"])
 print("The number of words having the same 1st and last letter is: ", words_count)
