@@ -1,7 +1,7 @@
 empty_list=[]
 print()
 
-Multiply=[1,2,3,4,5]*3
+Multiply=[1,2,3,4]*3
 print(Multiply)
 
 lis=[1,2,3,4,5,6]
