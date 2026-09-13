@@ -5,7 +5,7 @@ def match_words(words):
     print(word)
     if len(word) > 1 and word[0] == word[-1]:
             count+=1
-            lis.append(word)
+            lis=lis.append(word)
     print("The number of words which have the same 1st and last character are ", lis)
     return count
 
